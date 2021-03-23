@@ -9,6 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/rooney meinecke" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/77615251/112202173-5eef3600-8c11-11eb-9a58-134e5e79a99b.png)
+" alt="rooney meinecke" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rooney meinecke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rooney meinecke" height="30" width="40" /></a>
 <a href="https://instagram.com/rooneyisland" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rooneyisland" height="30" width="40" /></a>
 </p>
