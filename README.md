@@ -7,6 +7,12 @@
 
 - 📫 How to reach me **ronja.meinecke@gmx.de**
 
+- 🫀 Ask me about flow state, yoga & meditation
+
+- 🦸🏽‍♀️ my super hero skill is opening the jars that nobody else can
+
+- 🎨 see some of my art https://www.instagram.com/rooneyisland_design.dept/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
