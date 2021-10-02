@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [the "good thanks." app](https://github.com/RonjaMeinecke/good-thanks-app)
 
-- 📫 How to reach me **ronja.meinecke@gmx.de**
-
 - 🫀 Ask me about flow state, yoga & meditation
 
 - 🦸🏽‍♀️ my super hero skill is opening the jars that nobody else can
